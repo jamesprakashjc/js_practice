@@ -1,2 +1,2 @@
-// I'm learning JavaScript. So this is how you comment...
+let name;
 console.log("Hello World");
