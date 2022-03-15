@@ -1,2 +1,5 @@
-let name;
-console.log("Hello World");
+function greet(name) {
+    console.log("Hallo, " + name + "!");
+}
+
+greet("Mosh");
